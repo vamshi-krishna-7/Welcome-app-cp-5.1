@@ -1,0 +1,36 @@
+/* Write your CSS here */
+
+div {
+  background-color: #1e293b;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h1 {
+  color: #f0bb03;
+  font-size: 60px;
+  font-family: Bree Serif;
+  font-weight: 500;
+}
+
+p {
+  color: #ffffff;
+  font-size: 30px;
+  font-family: Bree Serif;
+  font-weight: 400;
+}
+
+button {
+    background-color: #ffffff;
+    color: #1e293b;
+    font-size: 18px;
+    font-family: Bree Serif;
+    border: none;
+    border-radius: 8px;
+    padding: 10px;
+}
+
